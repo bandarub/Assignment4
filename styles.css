@@ -174,10 +174,6 @@ input[type="checkbox"]:checked:before{
 .checkbox input:checked ~ .checkmark {
     background-color: #ccc;
 }
-
-
-
-
 .portfolio textarea{
     width:100%;
     background-color: #454E57;
@@ -189,11 +185,9 @@ input[type="checkbox"]:checked:before{
 
 .portfolio input{
     width:100%;
-    
-
 }
 .portfolio button{
-    background-color: #008CBA; /* Green */
+    background-color: #008CBA; 
     color: white;
     padding: 15px 45px;
     text-align: center;
